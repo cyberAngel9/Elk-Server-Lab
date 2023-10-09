@@ -29,4 +29,5 @@ Part Four's roadmap outlined building a robust SIEM system with the ELK stack. I
 ![image](https://github.com/cyberAngel9/Elk-Server-Lab/assets/82012925/fb494935-a8db-4119-9796-0b0dcccf4941)
 
 ## Elk Network Diagram 
-Comming soon.
+![image](https://github.com/cyberAngel9/Elk-Server-Lab/assets/82012925/878717c2-6228-477c-93d6-b31e1ad0363a)
+
